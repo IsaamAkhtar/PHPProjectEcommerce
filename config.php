@@ -3,6 +3,6 @@
 	error_reporting(-1);
 	define('DB_HOST', 'localhost');
     define('DB_USER', 'root');
-    define('DB_PASSWORD', 'root');
-    define('DB_DATABASE', 'idukan');
+    define('DB_PASSWORD', '@Goodboy1234');
+    define('DB_DATABASE', 'project_db');
 ?>

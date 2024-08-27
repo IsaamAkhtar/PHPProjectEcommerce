@@ -6,7 +6,7 @@
 # http://code.google.com/p/sequel-pro/
 #
 # Host: localhost (MySQL 5.5.29)
-# Database: idukan
+# Database: project_db
 # Generation Time: 2013-10-24 15:01:26 +0000
 # ************************************************************
 
