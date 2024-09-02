@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-*Include any relevant screenshots of the project here.*
+![Homepage](screenshots/homepage.png)
 
 ## Overview
 
